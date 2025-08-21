@@ -1,3 +1,3 @@
-# Mexendo aqui no README para alterar algumas coisas
+# Aprendendo a usar **Github**
 
-Mexendo aqui pra usar o **README**
+Mexendo aqui pra usar o **README** de forma mais *eficiente*, colocando alguns **detalhes**.
